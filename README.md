@@ -1,7 +1,9 @@
 # Snapload
 Snapchat tool that allows users to send gallery images and videos or custom stickers to friends using Snapchat's SDK.
 
-Inspo taken from [Chickencam](https://github.com/DarDur-Chickenbone/ChickenCam2020-Android), although all chickencam was, was [Snapchat's sample app](https://github.com/Snapchat/creative-kit-sample/tree/main/android) 1:1
+Inspo taken from [Chickencam](https://github.com/DarDur-Chickenbone/ChickenCam2020-Android), although all chickencam was, was [Snapchat's sample app](https://github.com/Snapchat/creative-kit-sample/tree/main/android) 1:1. Let me know if there's anything u'd like implemented
+
+Working for every Android version
 
 **Not bannable**
 
